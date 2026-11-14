@@ -1,0 +1,53 @@
+DESKRIPSI KASUS - TUGAS 1 DATA MINING
+Analisis Produktivitas dan Hasil Panen Pertanian
+=================================================
+
+1. LATAR BELAKANG
+Sebuah instansi pertanian ingin menganalisis produktivitas hasil panen dari berbagai lahan pertanian. Data dikumpulkan dari beberapa petani dan kelompok tani di beberapa kabupaten di Indonesia (Gresik, Lamongan, Sidoarjo, Jombang, Malang, Banyuwangi, Bantul, Karawang, Indramayu, Brebes, Cianjur, dan Bone). Karena berasal dari beberapa sumber pencatatan, data memiliki berbagai masalah kualitas: kesalahan input, format tidak konsisten, spasi berlebih, nilai tidak masuk akal, missing value, outlier, perbedaan satuan, dan perbedaan tingkat agregasi.
+
+2. TUJUAN DATASET
+Memungkinkan analisis hubungan antara kondisi lahan, penggunaan pupuk, faktor lingkungan (curah hujan, suhu), dan produktivitas hasil panen, serta menjadi bahan praktik data cleansing, transformation, dan integration menggunakan Python (Pandas).
+
+3. SUMBER DATA
+Seluruh data bersifat SINTETIS dan FIKTIF, dibangkitkan dengan program berdasarkan rentang kondisi pertanian Indonesia (hasil per hektare, dosis pupuk, biaya produksi, pola curah hujan bulanan, suhu menurut wilayah). Nama petani dan kelompok tani fiktif; kemiripan dengan orang nyata hanya kebetulan. Dua musim tanam: Musim Hujan 2025/2026 (tanam Nov-Des 2025) dan Musim Kemarau 2026 (tanam Apr-Mei 2026).
+
+4. DAFTAR FILE
+- dataset_awal.csv : dataset utama (240 baris, 18 variabel), SENGAJA kotor.
+- data_petani_lahan.csv : tabel petani dan lahan (untuk join).
+- data_produksi.csv : tabel produksi (240 baris, untuk join).
+- curah_hujan_mm.csv : curah hujan bulanan, satuan milimeter (7 wilayah).
+- curah_hujan_cm.csv : curah hujan bulanan, satuan sentimeter (5 wilayah lain).
+- penggunaan_pupuk_kg.csv : penggunaan pupuk satuan kilogram (setengah Record_ID).
+- penggunaan_pupuk_gram.csv : penggunaan pupuk satuan gram (setengah Record_ID lainnya). [file tambahan]
+- produksi_harian.csv : hasil panen dicatat per hari (20 Record_ID).
+- produksi_mingguan.csv : hasil panen dicatat per minggu (20 Record_ID lain).
+- Produksi_Pertanian_Musim_1.csv : produksi Musim Hujan 2025/2026 (120 baris).
+- Produksi_Pertanian_Musim_2.csv : produksi Musim Kemarau 2026 (120 baris), struktur kolom sama dengan Musim_1.
+- Deskripsi_Kasus.txt : file ini.
+
+5. VARIABEL dataset_awal.csv
+Record_ID           Kategorik  ID pencatatan panen (REC-0001 dst.)
+Farmer_ID           Kategorik  ID unik petani/kelompok tani (F001 dst.)
+Farmer_Name         Kategorik  Nama petani atau kelompok tani (fiktif)
+Field_ID            Kategorik  ID lahan (L001 dst.); satu petani dapat punya lebih dari satu lahan
+Region              Kategorik  Kabupaten lokasi lahan
+Crop_Type           Kategorik  Jenis tanaman (Padi, Jagung, Cabai, Tomat, Kedelai, Bawang Merah)
+Soil_Type           Kategorik  Jenis tanah (Lempung, Liat, Pasir, Aluvial, Latosol)
+Planting_Season     Kategorik  Musim tanam
+Land_Area           Numerik    Luas lahan (hektare)
+Fertilizer_Type     Kategorik  Jenis pupuk (Urea, NPK, ZA, SP-36, Organik)
+Fertilizer_Amount   Numerik    Jumlah pupuk (kg)
+Rainfall            Numerik    Curah hujan selama musim tanam (mm)
+Average_Temperature Numerik    Suhu rata-rata (derajat Celsius)
+Pesticide_Usage     Numerik    Penggunaan pestisida (liter)
+Production_Cost     Numerik    Biaya produksi (Rupiah)
+Harvest_Quantity    Numerik    Jumlah hasil panen (kg)
+Harvest_Date        Tanggal    Tanggal panen (format penulisan tidak seragam)
+Crop_Quality        Kategorik  Kualitas hasil panen (Grade A / B / C)
+
+6. CATATAN PENGGUNAAN
+- Kunci join: Farmer_ID dan Field_ID. Tidak semua lahan di tabel produksi ada di tabel petani, dan sebaliknya, sehingga hasil Inner Join dan Left Join akan berbeda.
+- Tabel Musim_1 dan Musim_2 dapat digabung dengan pd.concat().
+- curah_hujan_mm dan curah_hujan_cm berbeda nama kolom dan satuan (1 cm = 10 mm); penggunaan_pupuk_gram perlu dikonversi ke kg (1 kg = 1000 gram).
+- produksi_harian dapat diagregasi ke mingguan dengan groupby() dan dibandingkan dengan produksi_mingguan.
+- Masalah kualitas data pada dataset_awal.csv sengaja tidak dibersihkan; deteksi dan penanganannya adalah bagian dari tugas.

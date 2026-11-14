@@ -1,0 +1,241 @@
+﻿Record_ID,Farmer_ID,Farmer_Name,Field_ID,Region,Crop_Type,Soil_Type,Planting_Season,Land_Area,Fertilizer_Type,Fertilizer_Amount,Rainfall,Average_Temperature,Pesticide_Usage,Production_Cost,Harvest_Quantity,Harvest_Date,Crop_Quality
+REC-0001,F014,Sumarni Yulianto,L084,Bantul,Bawang Merah, lempung,Musim Hujan 2025/2026,0.90,NPK,648.6,854.4,27.4,9.5,38585000,8634,2026-01-10,Grade C
+REC-0002,F009,Sumarni Ramadhan,L095,GRESIK,Bawang Merah,Lempung,Musim Hujan 2025/2026,1.50,ZA,738.9,,28.3,13.3,79275000,11271,2026-01-12,grade c
+REC-0003,F015,  Tukijan Rahayu  ,L021,Brebes,Bawang Merah ,  Aluvial  ,Musim Hujan 2025/2026,0.72,ZA,420.8,812.0,29.0,8.4,26325000,9144,2026-01-13,Grade A
+REC-0004,F036,Lukman Santoso,L078,Bantul ,bawang merah,Aluial,Musim Hujan 2025/2026,0.00,S-36,202.9,946.8,27.6,6.2,28130000,5127,13-01-2026,Grade C
+REC-0005,F052,Bambang Kurniawan,L026,Gresik,Bawang Merah,Liat,Musim Hujan 2025/2026,,,1089.6,809.4,27.6,15.0,69765000,13199,2026-01-18,Grade C
+REC-0006,F002,Agus Maulana,L051,Brebes,bawang merah,Lempung,Musim Hujan 2025/2026,0.81,sp-36,366.6,826.0,28.5,6.0,40545000,10110,2026-01-21, Grade A
+REC-0007,F002,Agus Maulana,L019,Brebes,  Bawang Merah  ,lempung,Musim Hujan 2025/2026,1.44,SP-36,796.0,869.2,27.3,12.0,52450000,520665,2026-01-22,Grade C
+REC-0008,F048,Siti Hakim,L050,Gresik,Bawang Merah,,Musim Hujan 2025/2026,0.31,SP-36,184.9,779.7,28.3,2.1,12540000,3105,2026-01-27,Grade B
+REC-0009,F075,nur saputra,L003,BREBES,Bawang Merah,lempung,Musim Hujan 2025/2026,164.70,sp-36,1080.2,798.1,27.8,15.3,68230000,15956,2026-01-29,Grade C
+REC-0010,F071,Mariyam Saputra,L044,Brebes,Bawang Merah,eLmpung,Musim Hujan 2025/2026,1.79,Organik,1129.3,546.2,28.3,18.3,95480000,16750,2026-01-31,Grade C
+REC-0011,F046,Yusuf Susanto,L122,Gresik,Kedelai,Lempung,Musim Hujan 2025/2026,0.23,NPK,42.6,830.6,28.2,0.4,1445000,508,2026-01-31,Grade A
+REC-0012,F083,Hariyanto Wibowo,L113,Brebes,,Lempung,Musim Hujan 2025/2026,0.42,ZA,273.5,842.9,28.1,4.6,21560000,3625,2026-02-02,Grade C
+REC-0013,F027,Muhammad Purwanto,L025,Banyuwangi,KEDELAI,Lempung,Musim Hujan 2025/2026,0.32,Organik,41.3,1420.5,27.2,0.9,2915000,511,2026-02-04,Grade C
+REC-0014,F025,Katmini Wahyudi,L020,BANTUL,Bawang Merah,Lempung,Musim Hujan 2025/2026,0.84,ZA,567.9,,27.1,7.2,42960000,6752,2026-02-05,
+REC-0015,F060,samsul utomo,L097,Brebes,Bawang Merah,Aluvial,musim hujan 2025/2026,0.64,SP-36,,906.0,27.4,4.7,25295000,6918,2026-02-07,grade b
+REC-0016,F064,Fadli Wibowo,L101, Indramayu,Bawang Merah,Aluvial,Musim Hujan 2025/2026,0.99,NULL,440.3,869.0,28.5,9.5,4156885068,10519,2026-02-07,Grade B
+REC-0017,F076,Edi Santoso,L094,Indramayu,Bawang Merah,Liat,Musim Hujan 2025/2026,0.54,NPK,318.3,852.0,,4.6,,5382,2026-02-08,Grade C
+REC-0018,F048,Siti Hakim,L035,Gresik,Bawang Merah,liat,Musim Hujan 2025/2026,0.64,SP-36,421.3,588.1,26.0,4.3,22965000,6066,2026-02-10,
+REC-0019,F057,Samsul Kurniawan,L028,CIANJUR,jagung,Latosol,Musim Hujan 2025/2026,61.40,-,233.0,2034.1,22.6,2.1,7035000,3617,2026-02-15,Grade C
+REC-0020,F012,Andi Hakim,L052,bone,Jagung,Aluvial   ,Musim Hujan 2025/2026,0.87,Urea,398.6,933.3,27.9,2.8,11915000,7157,2026-02-15,Grade A
+REC-0021,F030,Mulyono Nugroho,L079,Brebes,Bawang Merah,Lempung,Musim Hujan 2025/2026,0.80,SP-36,361.8,2072.3,28.6,8.2,37695000,6588,2026-02-15,Grade C
+REC-0022,F036, Lukman Santoso,L016,bantul,Jagung,Pasir,Musim Hujan 2025/2026,1.77,NPK,868.8,1346.5,26.4,3.1,24595000,11432,2026-02-17,Grade B
+REC-0023,F062,Mariyam Hakim,L086,jombang,Jagung,Lempung,Musim Hujan 2025/2026,2.47,NPK,833.1,1295.1,27.7,9.6,31260000,27839,2026-02-17,Grade C
+REC-0024,F043,Ahmad Maulana,L112,Cianjur,Tomat ,lempung,Musim Hujan 2025/2026,0.46,SP-36,310.1,2012.8,24.2,3.8,2230293348,-200,2026-02-17,Grade C
+REC-0025,F040,Bambang Prasetyo,L061,Bone,Jagung,Lempung,Musim Hujan 2025/2026,0.54,ZA,219.4,987.5,28.4,1.9,5335000,2869,2026-02-18,GRADE C
+REC-0026,F075,Nur Saputra,L087,Brebes,Bawang Merah,lempung,musim hujan 2025/2026,0.59,SP-36,291.0,902.1,29.1,4.9,50233540,4011,2026-02-18,Grade C
+REC-0027,F055,Suryani Wahyudi,L098,Sidoarjo,TOMAT,Aluvial,Musim Hujan 2025/2026,0.52,Organik,393.9,1023.2,27.9,4.0,19775000,9076,18/02/2026,grade c
+REC-0028,F080,ahmad setiawan,L031,Cianjur,Tomat,Latosol,Musim Hujan 2025/2026,0.84,Organik,433.9,1387.9,24.0,5.9,37380000,15383,2026-02-20,  Grade C  
+REC-0029,F026,Ridwan Prasetyo,L081,Malang,Jagung, Lempung,Musim Hujan 2025/2026,0.39,Urea,162.7,1498.6,23.9,0.7,5115000,2677,21/02/2026,Grade B
+REC-0030,F019,Purnomo Wibowo,L060,,Jagung,Aluvial,Musim Hujan 2025/2026,0.46,Urea,,1068.0,28.5,1.7,6900000,3405,2026-02-22,Grade B
+REC-0031,F018,Sri Maulana,L107,Gresik,Padi,Lempung,Musim Hujan 2025/2026,0.32,urea,116.6,1139.1,,0.6,4735000,1995,2026-02-24,GRADE B
+REC-0032,F021,Ridwan Purwanto,L015,cianjur,Jagung,  Latosol  ,Musim Hujan 2025/2026,1.08,Urea,322.4,1974.9,23.2,2.8,15940000,6154,2026-02-26,Grade C
+REC-0033,F038,Sri Fauzi,L032,Bantul,JAGUNG,Pasir,Musim Hujan 2025/2026,0.90,UREA,281.0,1387.1,27.2,2.4,,5151,26/02/2026,Grade C
+REC-0034,F032,Kelompok Tani Makmur Jaya,L029,BONE,JAGUNG,LEMPUNG,Musim Hujan 2025/2026,18.00,Urea ,6752.8,943.2,28.1,29.5,166345000,145635,2026-02-27,Grade B
+REC-0035,F038,Sri Fauzi,L076,Bantul,Padi,,Musim Hujan 2025/2026,N/A,UREA,46.9,1445.1,27.1,0.5,2865000,851,2026-02-28,Grade C
+REC-0036,F041,Ahmad Wahyudi,L116,Lamongan,PADI,Liat,Musim Hujan 2025/2026,1.12,NPK,380.2,1228.7,29.0,1.9,14270000,,28-02-2026,grade b
+REC-0037,F082,Nur Santoso,L117,gresik,Jagung,Aluvial,Musim Hujan 2025/2026,0.91,ZA,354.8,1214.9,27.5,1.9,10235000,6644,2026-02-28,GRADE B
+REC-0038,F016,Sri Suryadi,L040,,Jagung,Pasir,Musim Hujan 2025/2026,1.62,ZA,561.5,1540.2,22.9,4.3,,9737,01/03/2026,Grade C   
+REC-0039,F069,Lukman Suryadi,L009,Indramayu,Kedelai,Aluvial,Musim Hujan 2025/2026,0.66,  NPK  ,131.5,,28.1,1.1,5435000,1391,2026-03-03,Grade A
+REC-0040,F024,Mulyono Suryadi,L114,INDRAMAYU,Padi,Liat,Musim Hujan 2025/2026,1.02,Urea,259.1,,28.4,1.7,,5140,2026-03-03,-
+REC-0041,F031,Sutrisno Saputra,L013,Malang,Tomat,Lempung,MUSIM HUJAN 2025/2026,0.68,npk,352.2,3829.3,23.8,5.0,39690000,9853,2026-03-04,Grade C
+REC-0042,F056,Darmanto Ramadhan,L017,Karawang,  Padi  ,iLat,Musim Hujan 2025/2026,0.49,ZA,128.9,1462.3,28.8,0.8,6085000,3354,04-03-2026,Grade A
+REC-0043,F052,Bambang Kurniawan,L034,Gresik,Padi   ,Liat,Musim Hujan 2025/2026,0.89,npk,247.5,1217.3,28.7,3.0,9930000,4614,04/03/2026,grade c
+REC-0044,F081,Sri Prasetyo,L049,Cianjur,tomat,Latosol,Musim Hujan 2025/2026,0.58,SP-36,365.9,1934.6,23.4,6.9,20330000,8677,2026-03-04,GRADE C
+REC-0045,F020,Mariyam Yulianto,L064,Banyuwangi,Kedelai,aluvial ,Musim Hujan 2025/2026,0.91,NPK,111.4,1205.3,27.5,2.1,7410000,1353,2026-03-05,Grade C
+REC-0046,F040,BAMBANG PRASETYO,L103,Bone,Padi,Liat,Musim Hujan 2025/2026,1.30,Urea,933.2,907.6,27.5,4.3,14665000,7582,2026-03-05,Grade B
+REC-0047,F073,Andi Wibowo,L125,-,JAGUNG,Liat,Musim Hujan 2025/2026,0.42,NPK,154.7,1200.1,28.4,1.1,6225000,2846,2026-03-05,Grade B
+REC-0048,F051,Fadli Susanto,L011,Karawang,Kedela,,Musim Hujan 2025/2026,0.52,NPK,75.3,1074.6,28.2,1.4,4250000,791,06/03/2026,GRADE C
+REC-0049,F022,Budi Purwanto,L074,Indramayu,  Padi  ,Aluvial,Musim Hujan 2025/2026,1.36,Urea,397.7,1077.6,28.3,3.7,19150000,7434,2026-03-06,NULL
+REC-0050,F054,Suharto Purwanto,L007, Sidoarjo,cabai,aluvial,Musim Hujan 2025/2026,0.27,Organik,228.8,1279.0,28.0,2.8,13705000,2453,2026-03-07,Grade C
+REC-0051,F010,Supardi Wibowo,L012,NULL,Padi,Lempung   ,Musim Hujan 2025/2026,1.39,NPK,477.9,1296.2,28.2,3.5,23030000,7490,2026-03-07,Grade C
+REC-0052,F050,Zainal Susanto,L039,,Padi,Aluvial,Musim Hujan 2025/2026,2.65,,751.4,1185.3,29.6,4.7,29960000,13931,07-03-2026,-
+REC-0053,F023,Mulyono Maulana,L042,Lamongan,Jagung,Lempung,Musim Hujan 2025/2026,0.64,NPK,NULL,963.8,27.2,1.1,6485000,4406,2026-03-07,Grade B
+REC-0054,F024,Mulyono Suryadi,L010,indramayu,, Liat,Musim Hujan 2025/2026,0.81,Urea,284.5,1139.8,28.4,1.8,11400000,4835,08/03/2026,Grade B
+REC-0055,F004,Kasiman Nugroho,L055,Karawang, Padi,Liat,Musim Hujan 2025/2026,10000.00,NPK,397.3,1592.1,27.8,3.4,17915000,7281,2026-03-09,Grade B
+REC-0056,F079,Mariyam Rahayu,L124,Sidoarjo,JAGUNG,-,MUSIM HUJAN 2025/2026,0.41,ZA,N/A,1158.3,27.5,1.0,6070000,2356,2026-03-10,Grade C
+REC-0057,F034,Andi Santoso,L006, Lamongan,Cabai,Aluvial,Musim Hujan 2025/2026,0.20,Organik,38000.0,1511.8,27.1,2.6,11685000,1528,2026-03-11, Grade C
+REC-0058,F068,Suharto Nugroho,L053,MALANG,Padi,Lempung,Musim Hujan 2025/2026,1.22,Urea,462.6,1508.3,22.2,4.7,16750000,8864,2026-03-11,Grade A
+REC-0059,F061,Rahmat Suryadi,L059,Brebes,Cabai,Aluvial,Musim Hujan 2025/2026,0.36,NPK,296.8,1281.5,28.3,3.1,18505000,3660,2026-03-11,Grade B
+REC-0060,F041,Ahmad Wahyudi,L099,Lamongan,cabai,Liat,Musim Hujan 2025/2026,0.90,  npk  ,688.5,1182.6,27.5,11.3,48420000,,2026-03-11,Grade B
+REC-0061,F033,Fadli Yulianto,L100,Cianjur,Tomt,LEMPUNG,Musim Hujan 2025/2026,0.50,NPK,338.6,2089.7,22.9,4.8,19575000,8655,2026-03-11,Grade C
+REC-0062,F013,Lukman Fauzi,L111,Malang,Jagung,Latosol,Musim Hujan 2025/2026,1.51, Ure,494.0,-120.0,24.6,3.3,14975000,10628,2026-03-11,Grade B
+REC-0063,F047,Supardi Rahayu,L038,N/A,Padi,PASIR,Musim Hujan 2025/2026,0.43,NPK,131.2,1595.6,23.0,0.9,5205000,2196,12/03/2026,grade c
+REC-0064,F019,Purnomo Wibowo,L104,Lamongan,Padi,Lempung,Musim Hujan 2025/2026,1.33,za,401.8,1203.8,26.9,3.5,,8887,2026-03-12,Grade A
+REC-0065,F014,Sumarni Yulianto,L080,bantul,Cabai,pasir,Musim Hujan 2025/2026   ,0.95,ZA,777.7,1750.8,,11.9,43785000,6680,2026-03-13,Grade C
+REC-0066,F057,Samsul Kurniawan,L033,Cianjur,Jagung,Latosol,Musim Hujan 2025/2026,0.34,NPK,309.6,1878.1,22.6,-2.5,3830000,2357,2026-03-14,Grade B
+REC-0067,F028,Rohmat Hakim,L063,Banyuwangi,Cabai,Aluvial,Musim Hujan 2025/2026,1.20,Organik,970.9,17948.7,27.0,15.4,59415000,11710,2026-03-14,Grade C
+REC-0068,F029,Nur Suryadi,L067,Banyuwangi,Jagung,Auvial,Musim Hujan 2025/2026,1.19,,,,26.4,3.5,12380000,7537,14/03/2026,Grade C
+REC-0069,F065,Yusuf Wibowo,L121,karawang,,Aluvial,Musim Hujan 2025/2026,1.24,N/A,319.3,1475.0,28.7,3.4,14525000,5552,2026-03-14,Grade C
+REC-0070,F053,Suharto Hidayat,L106,Karawang,Padi,,musim hujan 2025/2026,0.64,,193.4,1896.3,27.4,1.4,9900000,4356,2026-03-15,Grade A   
+REC-0071,F072,Edi Lestari,L108,Cianjur,Padi,,Musim Hujan 2025/2026,0.40,ZA,153.8,1939.6,-100.0,1.3,4445000,2341,2026-03-15,Grade B
+REC-0072,F053,Suharto Hidayat,L118,Karawang,Padi,Liat,Musim Hujan 2025/2026,0.82,Urea,261.6,1437.2,29.6,1.3,13540000,4068,2026-03-15,Grade C
+REC-0073,F070,Nasir Suryadi,L022,Malang,Tomat,Ltosol,Musim Hujan 2025/2026,1.52,ORGANIK,1026.0,1488.5,22.8,15.7,57815000,23561,2026-03-16,Grade C
+REC-0074,F011,Nur Kurniawan,L036,Jombng,Padi,Lempung,Musim Hujan 2025/2026,1.42,ZA,25000.0,1291.2,27.6,3.4,20525000,,2026-03-16,Grade B
+REC-0075,F085,Mariyam Prasetyo,L037,LAMONGAN,Pdi,-,Musim Hujan 2025/2026 ,1.67,NPK,577.5,1125.1,28.1,6.4,21235000,9856,16/03/2026,Grade B
+REC-0076,F037,Mariyam Hidayat,L109,Banyuwangi,Cabai,lempung,Musim Hujan 2025/2026,0.75,Organik,485.4,1657.6,,10.6,33950000,4933,16/03/2026,GRADE C
+REC-0077,F009,Sumarni Ramadhan,L043,GRESIK,Padi,Lempung,Musim Hujan 2025/2026,0.31,ZA,122.1,1235.2,27.9,-10.0,5135000,1957,2026-03-18,Grade B
+REC-0078,F058,Joko Hakim,L058,Cianjur,  Padi  ,Lempung,Musim Hujan 2025/2026,0.89,ZA,359.6,1793.2,23.8,2.1,,4395,2026-03-18,Grade C
+REC-0079,F060,Samsul Utomo,L004,brebes ,Padi,Aluvial ,Musim Hujan 2025/2026,0.91,,241.5,1288.8,29.3,3.6,13645000,5475,2026-03-19,Grade B
+REC-0080,F009,Sumarni Ramadhan,L041,Gresik,Padi ,Liat,Musim Hujan 2025/2026,0.81,ZA,217.3,1176.3,27.9,1.5,10545000,4213,2026-03-20,Grade B
+REC-0081,F074,Nur Susanto,L093,Indramayu,Padi,Aluvial,Musim Hujan 2025/2026,0.62,Urea,241.2,11390.7,29.9,1.3,10215000,4069,2026-03-20,Grade B
+REC-0082,F045,Yusuf Maulana,L120,Lamongan,,Liat,Musim Hujan 2025/2026,0.95,NPK,263.8,2501.3,28.2,3.3,10980000,4484,2026-03-20,Grade C 
+REC-0083,F046,Yusuf Susanto,L027,Gresik,JAGUNG,Lempung,Musim Hujan 2025/2026,-5.00,Uea,252.7,2799.6,28.9,2.2,6150000,4725,21-03-2026,Grade B
+REC-0084,F078,Heru Lestari,L072,Jombang,JAGUNG,Latosol,Musim Hujan 2025/2026,0.68,urea,214.9,1332.7,27.4,2.1,8785000,3952,2026-03-21,Grade C
+REC-0085,F013,Lukman Fauzi,L096,,Tomat,Latosol,Musim Hujan 2025/2026,,Organik,382.3,1416.1,23.8,5.2,25810000,,2026-03-21,Grade C
+REC-0086,F008,Kelompok Tani Sumber Rejeki,L008,Malang,Padi,latosol,Musim Hujan 2025/2026,12.50,  ZA  ,5155.3,1520.8,23.4,46.6,128270000,81929,2026-03-22,Grade A
+REC-0087,F077,Rohmat Prasetyo,L070,Malang,Padi,Pasir,Musim Hujan 2025/2026,0.77,NPK,241.3,1743.6,24.7,1.2,8635000,4683,2026-03-22,Grade B
+REC-0088,F057,Samsul Kurniawan,L075,Cianjur,Tomat,Latosol,Musim Hujan 2025/2026,0.35,SP-36,265.3,2152.1,22.4,2.2,18630000,5298,2026-03-22,Grade C
+REC-0089,F082,Nur Santoso,L002,Gresik,Jagung,Aluvial,Musim Hujan 2025/2026,0.84,NPK,352.0,1246.5,27.5,2.8,10450000,4857,2026-03-23,Grade C
+REC-0090,F084,Suryani Prasetyo,L069,gresik,CABAI,Aluvial,Musim Hujan 2025/2026   ,2.54,NPK,1696.9,1434.2,27.3,28.8,144350000,27922,2026-03-23,Grade B
+REC-0091,F035,Tukijan Wibowo,L090,bantul,Cabai,Lempung,Musim Hujan 2025/2026,0.44, ORGANIK,268.1,1700.3,28.0,6.0,27905000,4290,2026-03-24,Grade B
+REC-0092,F065,Yusuf Wibowo,L089,Karawang,Padi,Liat,Musim Hujan 2025/2026 ,,Urea,402.7,1484.8,28.1,4.4,21395000,6982,25-03-2026,  Grade C  
+REC-0093,F007,  Slamet Purwanto  ,L024,Indramayu,Padi, Aluvial,Musim Hujan 2025/2026,1.27,Urea,474.2,1224.9,29.5,2.9,,8218,26/03/2026,Grade B
+REC-0094,F052,Bambang Kurniawan,L062,Gresik,Padi,Aluvial,Musim Hujan 2025/2026,0.41,Urea,113.1,1255.3,27.7,0.6,5530000,2336,2026-03-27,grade b
+REC-0095,F017,Rahmat Setiawan,L091,Bone,Padi,Liat,Musim Hujan 2025/2026,1.51,ZA,587.8,1160.0,27.9,5.2,18610000,,2026-03-27,Grade B
+REC-0096,F006,Heru Suryadi,L054,lamongan,N/A,Aluvial,Musim Hujan 2025/2026,1.38,Urea,463.3,1630.4,28.0,3.9,15750000,8225,2026-03-28,Grade B
+REC-0097,F003,Muhammad Prasetyo,L066,Bantul,Padi,Aluvial,Musim Hujan 2025/2026,1.74,ZA,618.2,1523.3,27.8,4.4,20700000,,2026-03-28,Grade C
+REC-0098,F053,Suharto Hidayat,L105,Karawang,Padi,Liat,Musim Hujan 2025/2026,1.78,Urea,610.9,1633.9,27.3,3.0,19940000,10303,2026-03-28,Grade B
+REC-0099,F053,Suharto Hidayat,L056,Karawang,Jagung,Liat,Musim Hujan 2025/2026,0.56,Uea,185.2,1470.4,28.1,1.2,5560000,3818,2026-03-29,Grade B
+REC-0100,F044,Dewi Maulana,L083,Indramayu,Padi,Liat,Musim Hujan 2025/2026,1.32,NPK,485.3,1319.0,29.7,2.1,,7579,2026-03-29,Grade B 
+REC-0101,F063,Nasir Rahayu,L102,Sidoarjo,padi,Aluvial,Musim Hujan 2025/2026,0.75,Urea,232.7,1068.6,29.3,2.3,11200000,4935,2026-03-30,Grade B
+REC-0102,F029,Nur Suryadi,L018,Banyuwangi,Padi,latosol,Musim Hujan 2025/2026,0.94,ZA,306.4,1505.6,26.7,3.2,13635000,5833,2026-04-01,Grade B
+REC-0103,F012,Andi Hakim,L068,bone,Padi,Lempung,Musim Hujan 2025/2026,0.50,ZA,,1084.9,28.0,0.8,7670000,3088,2026-04-01,Grade A
+REC-0104,F059,Kelompok Tani Tirto Rahayu,L088,Cianur,Padi,latosol,Musim Hujan 2025/2026,25.50,Urea,8243.6,2132.7,22.8,50.1,267485000,123169,2026-04-01,Grade C
+REC-0105,F037,Mariyam Hidayat,L001,Banyuwangi,Padi,Latosol,Musim Hujan 2025/2026,1.20,za,NULL,1560.7,27.0,3.9,13600000,,03-04-2026,Grade B
+REC-0106,F070,Nasir Suryadi,L092,Malang,cabai,Pasir,Musim Hujan 2025/2026   ,0.78,NPK,518.2,1867.8,24.5,8.1,44010000,4739,2026-04-03,Grade C
+REC-0107,F055,Suryani Wahyudi,L014,Sidoarjo,Padi,Aluvial,Musim Hujan 2025/2026,0.68,Urea,208.8,1026.9,27.6,1.9,10125000,3935,2026-04-04,Grade B   
+REC-0108,F083,Hariyanto Wibowo ,L023,Brebes, Pai,Lempung , Musim Hujan 2025/2026,0.98,ZA,258.4,1334.9,27.2,2.3,11660000,5253,2026-04-05,Grade B
+REC-0109,F073,Andi Wibowo ,L046,Gesik,Padi,Lempung,Musim Hujan 2025/2026,0.67,NPK,224.3,1195.7,27.8,1.9,8150000,4418,2026-04-05,Grade A
+REC-0110,F066,Mulyono Santoso,L048,Karawang,Padi,Liat   ,Musim Hujan 2025/2026,1.04,Urea,402.0,1552.1,27.6,2.6,15995000,5685,2026-04-06, Grade C
+REC-0111,F005,Siti Fauzi,L057,SIDOARJO,Cabai   ,LIAT,Musim Hujan 2025/2026,0.80,ZA,N/A,1213.4,27.6,11.3,34625000,6887,2026-04-06,Grade C
+REC-0112,F001,Tukijan Suryadi,L119,indramayu,Pad,Auvial,Musim Hujan 2025/2026,0.42,Urea,103.5,1248.7,29.6,1.3,5950000,3277,2026-04-06,GRADE A
+REC-0113,F082,Nur Santoso,L115,Gresik,Pad,Aluvial,Musim Hujan 2025/2026,0.49,Urea,170.9,NULL,28.9,1.1,7365000,2619,2026-04-07,-
+REC-0114,F049,Kasiman Yulianto,L005,bone,,NULL,Musim Hujan 2025/2026,2.35,NPK,700.9,1213.4,28.3,8.0,31110000,12841,2026-04-08,Grade B
+REC-0115,F036,Lukman Santoso,L071,Bantul,PADI,Lempung,Musim Hujan 2025/2026,2.48,za,782.2,1329.3,27.4,4.3,39745000,16318,08/04/2026,grade b
+REC-0116,F021,Ridwan Purwanto,L082,,Cabai,lempung,Musim Hujan 2025/2026,0.52,Organik,426.4,1933.6,23.6,5.6,35575000,5125,2026-04-09,GRADE B
+REC-0117,F042,Fadli Maulana,L045,Sidoarjo,PADI,Aluvial,Musim Hujan 2025/2026,0.96,za,341.4,1172.4,28.3,3.0,11470000,5366,10/04/2026,Grade B
+REC-0118,F021,Ridwan Purwanto,L047,Cianjur,Cabai,lempung,Musim Hujan 2025/2026,0.92,ZA,782.8,2583.5,23.7,8.9,44505000,8825,2026-04-10,Grade C
+REC-0119,F039,Dewi Saputra,L065,Sidoajo,Cabai,Lat,Musim Hujan 2025/2026,0.43,ZA,294.5,N/A,N/A,5.0,27860000,5506,2026-04-17,Grade A   
+REC-0120,F044,Dewi Maulana,L077,Indramay,Cabai,Liat,MUSIM HUJAN 2025/2026,1.15,NPK,753.8,1393.5,28.6,10.5,48210000,13782,2026-04-20,Grade A
+REC-0121,F003,muhammad prasetyo,L066,Bantul,,ALUVIAL,Musim Kemarau 2026,1.74,Organik,919.3,505.3,27.4,14.2,65045000,24037,2026-06-12,Grade A
+REC-0122,F038,Sri Fauzi,L032,Bantul,Bawang Merah,pasir,Musim Kemarau 2026,0.90,Organik,475.3,520.6,28.1,10.7,39270000,9422,2026-06-14,Grade B
+REC-0123,F030,Mulyono Nugroho,L079,Brebes,Bawang Merah,Lempung ,Musim Kemarau 2026,0.80,Organik,345.1,281.6,28.2,5.3,42275000,10108,2026-06-17,Grade A
+REC-0124,F002,Agus Maulana,L051,Brebes,Bawang Merah ,Lempung,Musim Kemarau 2026,0.81,ZA,468.3,410.6,29.3,8.3,35570000,8420,2026-06-19,Grade B
+REC-0125,F076,Edi Santoso,L094,Indramayu,Bawang Merah,Liat,Musim Kemarau 2026,0.54,Organik,272.0,320.5,29.6,5.8,NULL,6727,2026-06-20,Grade A
+REC-0126,F061,Rahmat Suryadi,L059,Brbees,Bawang Merah ,Aluvial,Musim Kemarau 2026,0.36,ZA,197.3,404.3,29.3,2.3,13800000,-1500,2026-06-23,Grade A
+REC-0127,F038,Sri Fauzi,L076,Bantul,Bawang Merah,Aluvial,Musim Kemarau 2026,0.20,ZA   ,92.8,508.5,28.5,1.9,8710000,2145,25/06/2026,Grade B
+REC-0128,F044,Dewi Maulana,L083,Indramayu,Bawang Merah,NULL,Musim Kemarau 2026,1.32,ZA,803.4,310.9,28.1,8.6,-1250000,15747,26-06-2026,Grade A
+REC-0129,F009,Sumarni Ramadhan,L095,Gresik,Bawang Merah,LEMPUNG,Musim Kemarau 2026,1.50,SP-36,992.1,410.7,28.5,10.4,64470000,17490,28-06-2026,Grade B
+REC-0130,F060,Samsul Utomo,L097,Brebes,aBwang Merah,Aluvial,Musim Kemarau 2026,0.64,Organik,320.3,,28.3,4.5,24480000,7738,2026-06-29,Grade A
+REC-0131,F083,Hariyanto Wibowo,L113,  Brebes  ,Bawang Merah,Lempung,Musim Kemarau 2026,0.42,ZA,201.0,430.1,29.1,4.8,19405000,4982,2026-06-30,Grade B   
+REC-0132,F014,Sumarni Yulianto,L080,Bantul,Bawang Merah,Pasir,Musim Kemarau 2026,0.95,Organik,471.3,NULL,27.1,10.9,39635000,10749,2026-07-01,Grade B
+REC-0133,F015,Tukijan Rahayu,L021, BREBES,Bawang Merah,Aluvil,Musim Kemarau 2026,-1.20,ZA,387.3,271.6,28.4,7.7,27990000,9483,2026-07-02,Grade A
+REC-0134,F052,Bambang Kurniawan,L026,Gresik,Bawang Merah,LIAT,Musim Kemarau 2026,,SP-36,,417.6,28.3,18.3,75935000,25294,2026-07-03,Grade A
+REC-0135,F036, Lukman Santoso,L071,Bantul ,Bawang Merah,Lempung   ,Musim Kemarau 2026,2.48,ZA,1746.4,420.9,27.3,26.1,131185000,34856,2026-07-06,Grade A
+REC-0136,F024,Mulyono Suryadi,L114,  Indramayu  ,bawang merah,Liat,Musim Kemarau 2026,1.02,NPK,646.6,247.4,29.1,7.7,36395000,14488,2026-07-07,Grade A
+REC-0137,F036,Lukman Santoso,L016,bantul,BAWANG MERAH,Pasir,Musim Kemarau 2026,1.77,SP-36,1150.4,396.1,26.8,20.5,64880000,22118,08/07/2026,grade b
+REC-0138,F009,SUMARNI RAMADHAN,L043,Gresik,NULL,lempung,Musim Kemarau 2026,0.31,ZA,151.9,-50.0,28.8,2.7,11405000,3102,2026-07-08,Grade C
+REC-0139,F002,Agus Maulana,L019,Brebes,Bawang Merah,LEMPUNG,Musim Kemarau 2026,1.44,Organik ,753.2,418.7,N/A,11.0,62740000,11270,10/07/2026,Grade C
+REC-0140,F031,Sutrisno Saputra,L013,Mlaang,Jagung ,Lempung,Musim Kemarau 2026,0.68,NPK,207.7,609.6,23.8,1.5,6160000,4178,2026-07-17,grade c
+REC-0141,F059,KELOMPOK TANI TIRTO RAHAYU,L088,Cianjur,Jagun,Latosol,Musim Kemarau 2026,25.50,Urea,10874.2,718.5,23.3,53.7,291995000,244231,2026-07-17,Grade A
+REC-0142,F043,Ahmad Maulana   ,L112,Cianjur,Jagung,Lempung, Musim Kemarau 2026,0.46,Urea,211.8,764.3,23.8,0.9,4165000,3237,2026-07-17,Grade B
+REC-0143,F075,Nur Saputra,L003,Brebes,Bawang Merah,Lempung,  Musim Kemarau 2026  ,1.57,SP-36 ,896.5,270.1,28.8,12.8,77990000,22867,2026-07-18,Grade A
+REC-0144,F070,Nasir Suryadi,L022,Malang,  Tomat  ,Latosol,Musim Kemarau 2026,1.52,Organik,755.1,599.0,23.5,17.1,58905000,39358,2026-07-18,Grade A
+REC-0145,F008,Kelompok Tani Sumber Rejeki,L008,Malang,Jagung,Latosol,Musim Kemarau 2026,12.50,ZA,4918.9,635.8,24.0,48.8,119995000,91149,2026-07-20,Grade B
+REC-0146,F078,Heru Lestari,L072,jombang,Kedelai,  Latosol  ,Musim Kemarau 2026,0.68,SP-36,108.4,322.2,27.7,0.8,4130000,61357,2026-07-20,Grade B
+REC-0147,F046,YUSUF SUSANTO,L027,Gresik,aBwang Merah,Lempung,Musim Kemarau 2026,0.62,NPK,319.9,264.1,28.2,5.0,33440000,5840,2026-07-22,-
+REC-0148,F062,Mariyam Hakim,L086,Jombang,jagung,NULL,Musim Kemarau 2026,2.47,ZA,1073.9,515.6,27.6,7.3,34260000,16283,2026-07-22,Grade B
+REC-0149,F070,nasir suryadi,L092,Maang,Bawang Merah,Pasir,Musim Kemarau 2026,0.78,NPK,-250.0,315.9,24.5,6.1,,8068,2026-07-22,
+REC-0150,F051,Fadli Susanto,L011,karawang,NULL,Liat,Musim Kemarau 2026,0.52,NPK,394.9,463.7,30.3,5.4,21940000,10393,2026-07-24,Grade C
+REC-0151,F052,Bambang Kurniawan,L034,Gresik,Jagung   ,Liat ,musim kemarau 2026,0.89,NPK,397.7,486.1,28.4,3.1,,7868,2026-07-25,Grade A
+REC-0152,F048,Siti Hakim,L050, Gresik,bawang merah,,Musim Kemarau 2026,0.31,NPK,209.3,280.4,29.2,2.1,16125000,,25-07-2026,Grade A   
+REC-0153,F013,Lukman Fauzi,L096,Malang,Jagung,Latosol,Musim Kemarau 2026,0.64,  NPK  ,262.2,,23.5,1.6,8755000,3818,2026-07-25,Grade C
+REC-0154,F081,Sri Prasetyo,L049,Cianjur,Tomat,latosol,Musim Kemarau 2026,0.58,SP-36,335.0,753.8,23.8,5.5,29920000,13948,2026-07-26,GRADE B
+REC-0155,F019,Purnomo Wibowo,L104,Lamongan,Jagung,Lempung,Musim Kemarau 2026,0.00,ZA,603.2,513.6,27.6,4.3,12980000,10233,2026-07-26,Grade B
+REC-0156,F012,Andi Hakim,L068,Bone,Jagung,Lempung,musim kemarau 2026,0.50,ZA,199.2,,28.1,1.6,6250000,3286,27/07/2026,Grade C
+REC-0157,F075,Nur Saputra ,L087,Brebes,Bawang Merah ,Lempung,Musim Kemarau 2026,0.59,ZA,393.4,284.0,100.0,6.5,22825000,5197,2026-07-27,Grade C
+REC-0158,F083,Hariyanto Wibowo,L023,Brebes,Bawang Merah,lempung,Musim Kemarau 2026,0.98,NPK,630.5,289.4,28.9,5.9,38605000,10905,2026-07-28,Grade B   
+REC-0159,F017,Rahmat Setiawan,L091,Bone,Jagung, Liat,Musim Kemarau 2026,1.51,Urea,605.0,343.5,85.0,4.9,19525000,13665,2026-07-28,Grade A
+REC-0160,F038,Sri Fauzi,L030,Bantul,bawang merah,Lempung,Musim Kemarau 2026,0.37,Organik,206.9,376.3,27.2,3.7,13885000,4867,29/07/2026,Grade A
+REC-0161,F025,Katmini Wahyudi,L020,Bantul,Bawang Merah,Lempung,Musim Kemarau 2026,0.84,-,449.3,361.9,28.1,8.1,44745000,9671,2026-07-30,Grade B
+REC-0162,F047,Supardi Rahayu,L038,Malang,Padi,Pasir,Musim Kemarau 2026,0.43,Urea,130.6,597.1,23.8,1.4,6690000,2432,2026-08-01,Grade B
+REC-0163,F012,Andi Hakim,L052,Bone,,Aluvial,Musim Kemarau 2026,0.87,NPK,-100.0,405.9,28.2,2.1,12915000,5307,2026-08-01,Grade C
+REC-0164,F071,Mariyam Saputra,L044,BREBES,Padi,Lempung,Musim Kemarau 2026,1.79,za,500.6,459.5,27.9,6.0,21340000,8994,2026-08-02,Grade C
+REC-0165,F020,Mariyam Yulianto,L064,Banyuwangi,PADI,Alvuial,MUSIM KEMARAU 2026,0.91,NPK,326.6,609.1,27.4,1.8,11670000,6635,2026-08-04,Grade A
+REC-0166,F072,Edi Lestari,L108,Cianjur,Tomat,Latosol,Musim Kemarau 2026,0.40,-,261.7,749.0,23.6,4.8,16630000,6524,2026-08-04,Grade C
+REC-0167,F034,Andi Santoso,L006,Lamongan,Jagung,Aluvial,MUSIM KEMARAU 2026,0.20,npk,84.3,488.2,28.4,0.7,2380000,1486,2026-08-05,Grade B
+REC-0168,F022,Budi Purwanto,L074,Indramay,Padi,Aluvial,Musim Kemarau 2026,1.36,NPK,,412.9,29.7,2.8,20200000,6428,2026-08-05,grade c 
+REC-0169,F053,Suharto Hidayat,L105,Karawang, PADI,liat,Musim Kemarau 2026,1.78,ZA,503.6,448.5,27.9,2.8,21855000,11748,2026-08-05,Grade A
+REC-0170,F080,Ahmad Setiawan,L031,cianjur,Jagung,latosol, Musim Kemarau 2026,0.84,ZA,270.3,765.8,22.7,1.3,9865000,6763,2026-08-06,Grade A
+REC-0171,F011, Nur Kurniawan,L036,Jombagn,  Kedelai  ,Lempung,Musim Kemarau 2026,1.42,Orgaik,,308.8,26.9,1.7,13160000,2559,2026-08-06,grade b
+REC-0172,F016,Sri Suryadi,L040,Malang,Padi,Pasir,Musim Kemarau 2026,1.62,NPK,,550.8,24.1,4.3,17920000,8114,06/08/2026,Grade C
+REC-0173,F039,Dewi Saputra,L065,Sidoarjo,Padi,Liat,Musim Kemarau 2026,0.43,Ure,123.7,422.5,N/A,1.6,6170000,2255,2026-08-06,Grade C
+REC-0174,F045,Yusuf Maulana,L120,Lamongan,Padi,Liat ,Musim Kemarau 2026,0.95,ZA,260.5,516.2,27.9,3.4,12460000,8625,2026-08-07,Grade B
+REC-0175,F029,nur suryadi,L018,banyuwangi,N/A,Latoosl,Musim Kemarau 2026,0.94,NPK,346.3,624.1,26.0,2.7,14265000,6588,08-08-2026,Grade A
+REC-0176,F018,Sri Maulana,L107,Gresik,Jagung,lempung,Musim Kemarau 2026,0.32,NULL,100.4,497.9,28.0,0.8,4085000,2454,08/08/2026,GRADE B
+REC-0177,F060,Samsul Utomo,L004,-,padi,Aluvial,Musim Kemarau 2026,0.91,Urea,258.8,462.6,28.4,2.0,14345000,4311,2026-08-10,Grade C
+REC-0178,F032,Kelompok Tani Makmur Jaya,L029,Boe,Jagung, Lempung,Musim Kemarau 2026,18.00,ZA,6248.1,324.7,28.8,32.2,187390000,128959,2026-08-10,Grade B
+REC-0179,F041,Ahmad Wahyudi,L099,,Padi,Liat,Musim Kemarau 2026,0.90,ZA,291.6,484.9,NULL,2.8,11020000,4890,10/08/2026,Grade B
+REC-0180,F010,Supardi Wibowo,L012,Brebes,Padi,Lempung,Musim Kemarau 2026,1.39,Urea,413.3,,28.3,3.9,18300000,7473,2026-08-11,Grade C
+REC-0181,F085,  Mariyam Prasetyo  ,L037,Lamongan,Kedelai,Aluvial,MUSIM KEMARAU 2026,1.67,SP-3,256.0,294.6,28.4,2.7,33137111,3052,2026-08-11,
+REC-0182,F082,Nur Santoso,L115,Gresik,  Jagung  ,ALUVIAL,Musim Kemarau 2026,0.49,NPK,,285.1,28.6,1.2,4755000,3663,2026-08-14,GRADE B
+REC-0183,F048,Siti Hakim,L035,Gresik,Padi,Liat,Musim Kemarau 2026,0.64,ZA,192.0,495.3,28.0,1.0,,2475,2026-08-15,Grade C
+REC-0184,F042,fadli maulana,L045,Sidoarjo,padi,N/A,Musim Kemarau 2026,0.96,Urea,270.4,406.2,28.6,1.9,15315000,5376,2026-08-15,Grade B
+REC-0185,F073,Andi Wibowo,L046,Gresik,Jagung,Lempung,Musim Kemarau 2026,0.67,N/A,239.6,304.3,26.9,1.2,9940000,3942,2026-08-15,Grade C
+REC-0186,F053,suharto hidayat,L056,karawang,tomat,Liat,Musim Kemarau 2026,0.56,NPK,477.2,349.5,28.2,3.8,21645000,15012,2026-08-15,grade a
+REC-0187,F005,Siti Fauzi,L057,  Sidoarjo  ,,Liat,Musim Kemarau 2026,0.80,Urea,293.8,273.9,29.2,2.9,7595000,,2026-08-15,Grade B
+REC-0188,F019,Purnomo Wibowo,L060,Lamongan,Padi,Aluvia,Musim Kemarau 2026,,Urea,128.1,481.6,29.2,1.5,6445000,2742,2026-08-15,Grade B
+REC-0189,F044,Dewi Maulana,L077,INDRAMAYU,,LIAT ,Musim Kemarau 2026,1.15,Urea,332.0,365.4,29.6,1.9,15650000,6607,2026-08-17,Grade B   
+REC-0190,F026,Ridwan Prasetyo,L081,Malang,Pdi,Lempung,Musim Kemarau 2026,NULL,ZA,140.9,598.2,24.2,0.8,5190000,N/A,2026-08-18,Grade C 
+REC-0191,F040,Bambang Prasetyo,L061,Bone,Jagung,lempung,Musim Kemarau 2026,0.54,NPK,204.8,323.7,26.4,1.8,-500000,3321,2026-08-19,Grade C
+REC-0192,F057,Samsul Kurniawan,L028,Cianjur, Cabai,Latsol,Musim Kemarau 2026,0.60,NPK,448.5,772.3,23.2,7.1,37950000,5708,2026-08-20,
+REC-0193,F036,Lukman Santoso,L078,Bantul   ,Cabai   ,Aluvial,Musim Kemarau 2026,0.54,ZA,493.2,669.0,28.0,6.1,29070000,12462,2026-08-20,Grade A
+REC-0194,F065,Yusuf Wibowo,L121,Karawang,Padi,Aluvial,Musim Kemarau 2026,,NPK,368.3,344.1,27.8,3.1,14330000,NULL,2026-08-21,  Grade A  
+REC-0195,F049,Kasiman Yulianto,L005,BONE,jagung,Aluvial,Musim Kemarau 2026,2.35,za,907.4,315.5,27.7,8.8,26770000,15149,2026-08-22,NULL
+REC-0196,F021,Ridwan Purwanto,L015,Cianjur,Cabai,Latosol,Musim Kemarau 2026,1.08,NPK,725.9,790.2,23.4,14.0,73705000,8506,2026-08-22,Grade C
+REC-0197,F084,Suryani Prasetyo,L069,GRESIK,JAGUNG,ALUVIAL,Musim Kemarau 2026,2.54,ZA,1014.5,288.5,27.3,8.0,23575000,21543,2026-08-22,Grade A
+REC-0198,F035,Tukijan Wibowo,L090,Bantul,Cabai,Lemung,musim kemarau 2026,0.44,Organik,365.8,641.4,28.1,5.4,24100000,3926,2026-08-22,-
+REC-0199,F079,mariyam rahayu,L124,Sidoarjo,Padi,Aluvial,Musim Kemarau 2026,0.41,ZA,124.0,435.0,,1.1,5790000,2469,2026-08-23,Grade B
+REC-0200,F023,Mulyono Maulana,L042,Lamongan,Padi,Lempung   ,Musim Kemarau 2026,0.64,Urea,178.9,356.0,28.4,1.1,8640000,4189,2026-08-24,Grade A
+REC-0201,F077,rohmat prasetyo,L070,Malang,JAGUNG,pasir,Musim Kemarau 2026,0.77,ZA,290.0,364.3,23.8,2.1,9245000,6235,2026-08-24,Grade A
+REC-0202,F053,Suharto Hidayat,L106,Karawang,Pad,Aluvial,Musim Kemarau 2026,0.64,Urea,249.6,348.0,29.2,1.0,7360000,3396,2026-08-24,Grade C
+REC-0203,F056,Darmanto Ramadhan,L017,Karawang, Padi,LIAT,Musim Kemarau 2026,0.49, urea,168.3,477.9,28.9,0.9,7085000,2919,2026-08-26,Grade B
+REC-0204,F063,Nasir Rahayu,L102,Sidoarjo,Padi,aluvial,Musim Kemarau 2026,,Urea,214.4,254.3,28.6,2.3,11185000,4366,2026-08-26,Grade B
+REC-0205,F065,Yusuf Wibowo,L089,Karawang,TOMAT,Liat,Musim Kemarau 2026,1.29,Organik,996.5,336.3,28.7,11.7,,19323,27-08-2026,Grade C
+REC-0206,F053,Suharto Hidayat,L118,Karawang,Jagung,Liat,Musim Kemarau 2026,0.82,urea,346.8,334.9,27.8,2.9,9435000,4829,2026-08-27,Grade C
+REC-0207,F052,Bambang Kurniawan,L062,NULL,Padi,Aluvial,Musim Kemarau 2026,0.41,ZA,135.2,324.2,28.7,1.2,6200000,2012,2026-08-28,Grade C
+REC-0208,F074,Nur Susanto,L093,Indramayu,Padi,Aluvial,Musim Kemarau 2026,0.62,ZA,223.1,264.3,29.5,1.7,15216726,3663,2026-08-28,Grade B
+REC-0209,F055, Suryani Wahyudi,L098,  sidoarjo  ,Padi,Alvuial,Musim Kemarau 2026,,npk,180.1,280.5,29.8,1.5,5805000,3624,29-08-2026,Grade A
+REC-0210,F073,Andi Wibowo,L125,Gresik,Cabai,Liat,Musim Kemarau 2026,0.42,ZA,394.2,528.9,26.9,3.8,28490000,4671,2026-08-29,Grade B
+REC-0211,F029,Nur Suryadi,L067,Banyuwangi,Padi   ,aluvial,Musim Kemarau 2026,1.19,NPK,460.4,484.4,26.7,3.4,19455000,5622,2026-08-31,Grade C
+REC-0212,F041,Ahmad Wahyudi,L116,Lamongan,CABAI,Liat,musim kemarau 2026,1.12,Organik,792.2,,NULL,9.1,55945000,11742,2026-08-31,Grade B
+REC-0213,F009,Sumarni Ramadhan,L041,Gresik,Padi,Liat,Musim Kemarau 2026,0.81,NPK,301.8,292.3,29.1,1.5,10710000,5646,2026-09-01,Grade A
+REC-0214,F057,Samsul Kurniawan,L033,Cianjur,Cabai,Latosol,Musim Kemarau 2026,0.34,ZA,204.0,806.5,,3.5,21320000,2942,2026-09-02,grade c
+REC-0215,F053,Suharto Hidayat,L085,Karawang,Padi,,MUSIM KEMARAU 2026,0.38,NPK,147.7,328.6,29.1,1.2,6070000,1938,03/09/2026,Grade C
+REC-0216,F040,Bambang Prasetyo,L103,Bone,Padi,Lat,Musim Kemarau 2026,1.30, ZA,468.3,323.1,27.5,2.5,22080000,,2026-09-03,
+REC-0217,F054,Suharto Purwanto,L007,Sidoarjo,Padi,Aluvial,Musim Kemarau 2026,0.27,NPK,70.2,286.1,28.1,0.9,3825000,1590,2026-09-04,NULL
+REC-0218,F024,Mulyono Suryadi,L010,Indramayu,Padi,Liat,Musim Kemarau 2026,0.81,ZA,244.4,288.6,28.0,2.5,12820000,4407,04-09-2026,Grade B
+REC-0219,F021,Ridwan Purwanto,L047,Cianjur ,Cabai,N/A,Musim Kemarau 2026,0.92,ZA,1631.6,812.2,23.2,10.9,40195000,10455,2026-09-04,Grade B
+REC-0220,F006,Heru Suryadi,L054,Lamongan,Padi,Aluial,Musim Kemarau 2026,1.38,urea,429.2,355.6,,4.4,22755000,7098,2026-09-04,Grade B
+REC-0221,F028,Rohmat Hakim,L063,Banyuwangi,Padi,Auvial,Musim Kemarau 2026,1.20,za,433.6,406.7,27.5,3.9,16015000,6944,2026-09-05,Grade B
+REC-0222,F021,Ridwan Purwanto,L082,Cianjur,Cabai,Lempung,Musim Kemarau 2026,0.52,Organik,316.6,445.4,NULL,7.5,21530000,5871,2026-09-05,Grade B
+REC-0223,F064,Fadli Wibowo,L101,Indramayu,Pdi,Aluvial,Musim Kemarau 2026,0.99,NPK,,284.6,28.6,2.8,12020000,6259,2026-09-05,Grade B
+REC-0224,F001,Tukijan Suryadi,L119,Indramayu,Padi,Aluvial,Musim Kemarau 2026,0.42, Urea,161.0,252.6,,0.9,6780000,2929,2026-09-05,Grade A
+REC-0225,F046,Yusuf Susanto,L122,Gresik,Padi,lempung,Musim Kemarau 2026,0.23,ZA,80.0,277.2,28.2,0.6,3145000,1334,2026-09-05,Grade B
+REC-0226,F029,Nur Suryadi,L073,Banyuwangi,Padi,Latosol,Musim Kemarau 2026,1.15,ZA,293.5,399.5,27.1,3.8,16390000,,2026-09-06,Grade B
+REC-0227,F004,Kasiman Nugroho,L055,Karawang,Padi,Lat,Musim Kemarau 2026,1.29,NPK,434.8,368.8,29.8,4.0,15230000,6306,2026-09-07,Grade C
+REC-0228,F027,Muhammad Purwanto,L025,Banyuwangi   ,Cabai, Lempung,Musim Kemarau 2026,0.32,Organik,208.8,464.2,25.8,3.3,,2937,2026-09-08,Grade B
+REC-0229,F033,Fadli Yulianto,L100,Cianjur,  cabai  ,Lempung   ,Musim Kemarau 2026,0.50,,299.4,417.2,23.0,5.2,26730000,5170,2026-09-08,grade b
+REC-0230,F052,Bambang Kurniawan,L123,Gresik,Cabai,Aluvial,Musim Kemarau 2026,0.29, Organk,186.4,336.6,27.5,4.3,16160000,4028,2026-09-08,Grade A
+REC-0231,F068,Suharto Nugroho,L053,Malang,Cabai , Lempung,Musim Kemarau 2026,1.22,ZA,975.4,350.7,24.5,12.4,54585000,14093,2026-09-09,
+REC-0232,F082,Nur Santoso,L117,Gresik,PADI,Aluvial,Musim Kemarau 2026,0.91,ZA,316.5,313.7,29.2,1.8,10790000,5502,2026-09-10, Grade B
+REC-0233,F082,Nur Santoso,L002,Gresik,Cabai,Aluvial,Musim Kemarau 2026,0.84,ZA,745.7,336.9,,7.3,45740000,7922,2026-09-11,Grade C
+REC-0234,F055,Suryani Wahyudi,L014,Sidoarjo,Padi,Aluvial,musim kemarau 2026,0.68, ZA,235.3,260.7,29.2,2.7,10835000,3124,2026-09-12,Grade C
+REC-0235,F057,Samsul Kurniawan,L075,Cianjur,Cabai,latosol,Musim Kemarau 2026,,ZA,292.5,481.7,23.0,4.0,23660000,3647,2026-09-12,Grade B
+REC-0236,F013,Lukman Fauzi,L111,Malang,Cabai,Latosol,Musim Kemarau 2026,,Organik,1355.1,440.2,25.0,21.3,105130000,19081,2026-09-12,Grade A 
+REC-0237,F066,Mulyono Santoso,L048,,Pdi,Liat,Musim Kemarau 2026,105.40,Urea,303.4,337.7,27.9,2.3,13645000,5388,13-09-2026,Grade B
+REC-0238,F007,Slamet Purwanto,L024,Indramayu,CABAI   ,Aluvial,Musim Kemarau 2026,1.27,Organik,821.1,309.7,28.3,16.7,84275000,11152,2026-09-22,Grade C
+REC-0239,F067,Mulyono Wibowo,L110,Lamongan,Cabai,  Liat  ,Musim Kemarau 2026,0.22,NPK ,183.5,440.9,28.2,2.3,10935000,1955,2026-09-26,Grade C
+REC-0240,F058,Joko Hakim,L058,Cianjur,  Cabai  ,Lempung,musim kemarau 2026,0.89, ZA,855.4,563.4,-15.0,11.5,53015000,5971,2026-09-29,Grade C
